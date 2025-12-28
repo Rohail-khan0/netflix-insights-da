@@ -1,4 +1,4 @@
-# netflix-insights-da
+
 🎬 Netflix &amp; Movie Database Insights (EDA)  This repository contains a comprehensive Exploratory Data Analysis (EDA) of a global movie dataset. The project explores trends in movie production, genre popularity, and viewer ratings, providing a clear picture of what defines success in the entertainment industry.
 ## 📖 Project Description
 In the rapidly evolving world of streaming and cinema, understanding audience preferences is key. This project utilizes Python to clean and analyze a dataset of over 9,000 movies. By performing data transformation and feature engineering, the analysis uncovers:
